@@ -1,6 +1,6 @@
-#include <ctime>
+#include <unistd.h>
 #include <iostream>
-#include <raspicam/raspicam_cv.h>
+#include <cstdlib>
 using namespace std;
 
 int main ( int argc,char **argv ) {
